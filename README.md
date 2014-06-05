@@ -1,4 +1,4 @@
 flood-it
 ========
 
-Flood-It JavaScript game with AI
+Flood It JavaScript game with AI
